@@ -1,3 +1,9 @@
+## Done with the help of John Smilga`s tutorial video
+
+YouTube [vedio](https://www.youtube.com/watch?v=4UZrsTqkcW4).
+
+[Site](https://www.johnsmilga.com/).
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
